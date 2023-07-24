@@ -28,7 +28,8 @@ const state = {
     girlImage: require('../assets/character_girl_color9_pink.png'),//元ネタ：何でも言うことをきいてくれるアカネチャン
     tennisImage: require('../assets/sports_tennis.png'),//元ネタ：松岡修造
     soccer2Image: require('../assets/sports_soccer_pass_man.png'),//元ネタ：本田とじゃんけん
-    question: 5,//問題数、問題を追加したら1増やす
+    question: 3,
+    //question: 5,//問題数、問題を追加したら1増やす
     mission: 0
 }
 

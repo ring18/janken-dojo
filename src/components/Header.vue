@@ -2,12 +2,12 @@
   <header>
     <div class="row">
       <router-link to="/">Home</router-link>
-      <!--<router-link to="/quiz1" :disabled="!this.$store.state.debug" :event="this.$store.state.debug ? 'click' : ''">Quiz1</router-link>
-      <router-link to="/quiz2" :disabled="!this.$store.state.debug" :event="this.$store.state.debug ? 'click' : ''">Quiz2</router-link>
-      <router-link to="/quiz3" :disabled="!this.$store.state.debug" :event="this.$store.state.debug ? 'click' : ''">Quiz3</router-link>
-      <router-link to="/quiz4" :disabled="!this.$store.state.debug" :event="this.$store.state.debug ? 'click' : ''">Quiz4</router-link>
-      <router-link to="/end" :disabled="!this.$store.state.debug" :event="this.$store.state.debug ? 'click' : ''">End</router-link>
-      -->
+      <!--<router-link to="/quiz1">Quiz1</router-link>
+      <router-link to="/quiz2">Quiz2</router-link>
+      <router-link to="/quiz3">Quiz3</router-link>
+      <router-link to="/quiz4">Quiz4</router-link>
+      <router-link to="/quiz5">Quiz5</router-link>
+      <router-link to="/end">End</router-link>-->
     </div>
   </header>
 </template>
